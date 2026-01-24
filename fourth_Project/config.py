@@ -1,0 +1,1 @@
+company_budget = 10000
