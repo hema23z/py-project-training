@@ -1,1 +1,1 @@
-company_budget = 10000
+company_budget = 500000
